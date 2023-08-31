@@ -22,3 +22,10 @@ El conjunto de datos de Heart Disease es un recurso valioso para la investigaci�
 La regresión logística se utiliza comúnmente en el conjunto de datos de predicción de enfermedades cardíacas (Heart Disease) para predecir si un paciente tiene o no una enfermedad cardíaca en función de diversas características médicas y de salud. Este uso se debe a la naturaleza binaria del problema (enfermedad cardíaca o no) y la capacidad de la regresión logística para modelar la probabilidad de pertenecer a una de las dos clases.
 
 # Estructura del repositorio
+
+Al abrir este Repositorio encontraran dos partes la primera que es la seleccionada es el README.md en el que esta todo el contexto de los datos, proyecto y guia para ubicar todas las partes del proyecto, la segunda parte arriba de README es el archivo ipynb Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución en el que estara el codigo en formato documento con todo el proyecto por ultimo esta el pdf con el mismo nombre que el ipynb que es el codigo pero en version documento/pdf para una mejor vision y entendimiento del entregable.
+- README = Instrucciones para entender, leer y tener contexto del presente proyecto.
+- Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.ipynb = codigo y documentacion del proyecto en el que se aplica regresion logistica al dataset de heart desease.
+- Uso_de_framework_o_biblioteca_de_aprendizaje_máquina_para_la_implementación_de_una_solución.pdf = documento pdf del codigo para mejor entendimiento o visualizacion del proyecto.
+
+En el archivo pdf o ipynb se pueden revisar o evaluar todas las subcompetencias ya que cada punto del proyecto toma en cuenta y sigue los pasos de cada competencia.
