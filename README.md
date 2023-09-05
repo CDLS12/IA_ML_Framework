@@ -23,9 +23,10 @@ La regresión logística se utiliza comúnmente en el conjunto de datos de predi
 
 # Estructura del repositorio
 
-Al abrir este Repositorio encontraran dos partes la primera que es la seleccionada es el README.md en el que esta todo el contexto de los datos, proyecto y guia para ubicar todas las partes del proyecto, la segunda parte arriba de README es el archivo ipynb Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución en el que estara el codigo en formato documento con todo el proyecto por ultimo esta el pdf con el mismo nombre que el ipynb que es el codigo pero en version documento/pdf para una mejor vision y entendimiento del entregable.
+Al abrir este Repositorio encontraran tres partes la primera que es la seleccionada es el README.md en el que esta todo el contexto de los datos, proyecto y guia para ubicar todas las partes del proyecto, la segunda parte arriba de README es el archivo ipynb Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución en el que estara el codigo en formato documento con todo el proyecto, la tercera parte es el archivo ipynb Modulo 2 Análisis y Reporte sobre el desempeño del modelo el cual tendra documentado paso a paso junto a los resultados del refinamiento del modelo para una mejor accuracy sin overfitting o underfitting con el cambio de hiperparametros o tecnicas de regularizacion, por ultimo esta el pdf con el mismo nombre que el ipynb que es el codigo pero en version documento/pdf para una mejor vision y entendimiento del entregable.
 - README = Instrucciones para entender, leer y tener contexto del presente proyecto.
 - Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.ipynb = codigo y documentacion del proyecto en el que se aplica regresion logistica al dataset de heart desease.
 - Uso_de_framework_o_biblioteca_de_aprendizaje_máquina_para_la_implementación_de_una_solución.pdf = documento pdf del codigo para mejor entendimiento o visualizacion del proyecto.
+- 
 
 En el archivo pdf o ipynb se pueden revisar o evaluar todas las subcompetencias ya que cada punto del proyecto toma en cuenta y sigue los pasos de cada competencia.
