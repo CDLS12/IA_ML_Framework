@@ -27,6 +27,6 @@ Al abrir este Repositorio encontraran tres partes la primera que es la seleccion
 - README = Instrucciones para entender, leer y tener contexto del presente proyecto.
 - Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución.ipynb = codigo y documentacion del proyecto en el que se aplica regresion logistica al dataset de heart desease.
 - Uso_de_framework_o_biblioteca_de_aprendizaje_máquina_para_la_implementación_de_una_solución.pdf = documento pdf del codigo para mejor entendimiento o visualizacion del proyecto.
-- 
+- Modulo_2_Análisis_y_Reporte_sobre_el_desempeño_del_modelo.
 
 En el archivo pdf o ipynb se pueden revisar o evaluar todas las subcompetencias ya que cada punto del proyecto toma en cuenta y sigue los pasos de cada competencia.
