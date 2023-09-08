@@ -31,7 +31,7 @@ El repositorio actual esta conformado por dos partes esenciales, la primera part
   * Uso de Regresión Logística en el Dataset de Heart Disease
   * Estructura del repositorio
     
-- Modulo 2 Portafolio de Implementacion y Analisis: Reporte del proyecto implementado regresion logistica para el problema de clasificacion del dataset de heart desease conformado por dos partes
+-Modulo 2 Portafolio de Implementacion y Analisis: Reporte del proyecto implementado regresion logistica para el problema de clasificacion del dataset de heart desease conformado por dos partes
   *Parte 1: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución: La primera parte es el analisis previo a la base de datos de heart desease para su posterior limpieza de datos e implementacion del modelo de machine learning regresion logistica y visualizacion de precision y rendimiento en relacion a los datos.
   *Parte 2: Módulo 2 Análisis y Reporte sobre el desempeño del modelo: La segunda parte remonta lo anterior con el modelo implementado y se analizar multiple factores como sesgo, varianza y nivel del ajuste del modelo para ver su rendimiento y afinar el modelo para que sea mucho mas preciso evitando underfitting o overfitting dependiendo del caso al aplicar tecnicas de regularizacion y ajuste de hiperparametros.
 
