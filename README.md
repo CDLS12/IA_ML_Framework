@@ -25,13 +25,13 @@ La regresión logística se utiliza comúnmente en el conjunto de datos de predi
 # Estructura del repositorio
 El repositorio actual esta conformado por dos partes esenciales, la primera parte es el README presente el cual sirve como presentacion del repositorio e introduccion al proyecto con datos generales del entregable, contexto del reto o problema a resolver y los modelos que se utilizaran para la solucion del mismo. La segunda parte es el archivo/reporte  Modulo 2 Portafolio de Implementacion y Analisis.ipynb el cual es el reporte explicado con codigo implementado y solucion de la problematica presente, a continuacion en forma de lista se presentaran las dos partes de este repositorio para un mejor entendimiento y orden:
 
--README: Introduccion y entendimiento del proyecto con contexto general de la problematica conformada por
+## README: Introduccion y entendimiento del proyecto con contexto general de la problematica conformada por
   * Contexto del problema o trabajo
   * Dataset de Heart Disease
   * Uso de Regresión Logística en el Dataset de Heart Disease
   * Estructura del repositorio
 
--Modulo 2 Portafolio de Implementacion y Analisis.ipynb: Reporte del proyecto implementado regresion logistica para el problema de clasificacion del dataset de heart desease conformado por dos partes
+## Modulo 2 Portafolio de Implementacion y Analisis.ipynb: Reporte del proyecto implementado regresion logistica para el problema de clasificacion del dataset de heart desease conformado por dos partes
   *Parte 1: Módulo 2 Uso de framework o biblioteca de aprendizaje máquina para la implementación de una solución: La primera parte es el analisis previo a la base de datos de heart desease para su posterior limpieza de datos e implementacion del modelo de machine learning regresion logistica y visualizacion de precision y rendimiento en relacion a los datos.
   *Parte 2: Módulo 2 Análisis y Reporte sobre el desempeño del modelo: La segunda parte remonta lo anterior con el modelo implementado y se analizar multiple factores como sesgo, varianza y nivel del ajuste del modelo para ver su rendimiento y afinar el modelo para que sea mucho mas preciso evitando underfitting o overfitting dependiendo del caso al aplicar tecnicas de regularizacion y ajuste de hiperparametros.
 
