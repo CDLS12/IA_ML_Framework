@@ -1,4 +1,4 @@
-# Módulo 2 Portafolio de Implementacion y Analisis.
+# Módulo 2 Portafolio de Analisis.
 
 # Contexto del problema o trabajo
 Este repositorio contiene el archivo de trabajo en el que se implemento machine learning a un set de datos para el entrenamiento, prueba y prediccion de los mismos datos
