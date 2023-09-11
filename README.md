@@ -38,6 +38,6 @@ El repositorio actual esta conformado por dos partes esenciales, la primera part
     modelo para ver su rendimiento y afinar el modelo para que sea mucho mas preciso evitando underfitting o overfitting dependiendo del caso al aplicar tecnicas de regularizacion y ajuste de hiperparametros.
 
 # Cambios implementados
-Para esta ultima entrega se cambiaron y alteraron multiples parte del reporte a base de la retroalimentacion pasada se cambio el conjunto de prueba en la division de datos de entrenamiento y prueba donde 70% de los datos van a entrenamiento y 30% a prueba, tambien se dividio el conjunto temporal en conjunto de validación (15%) y conjunto de prueba (15%) para la validacion o analisis del modelo, se añadieron graficas a cada prueba y cambio la forma de medir el sesgo o varianza con los valores de error cuadrático medio en entrenamiento y prueba
+Para esta ultima entrega se cambiaron y alteraron multiples parte del reporte a base de la retroalimentacion pasada se cambio el conjunto de prueba en la division de datos de entrenamiento y prueba donde 70% de los datos van a entrenamiento y 30% a prueba, tambien se dividio el conjunto temporal en conjunto de validación (15%) y conjunto de prueba (15%) para la validacion o analisis del modelo, se añadieron graficas a cada prueba y cambio la forma de medir el sesgo o varianza con los valores de error cuadrático medio en entrenamiento y prueba, ademas se añadio ajustes de hiperparametros debido a que anteriormente solo habia tecnicas de regularizacion.
 
 
